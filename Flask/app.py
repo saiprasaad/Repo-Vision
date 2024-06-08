@@ -64,7 +64,7 @@ def fetchForAllRepos():
     repo_name = body['repository']
     # Add your own GitHub Token to run it local
     token = os.environ.get(
-        'GITHUB_TOKEN', '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')
+        'GITHUB_TOKEN', '')
     # token = os.environ.get(
     #     'GITHUB_TOKEN', 'YOUR_GITHUB_TOKEN')
 
