@@ -1,0 +1,14 @@
+flask
+pandas
+numpy
+matplotlib 
+scikit-learn
+scipy
+tensorflow
+keras
+google-cloud-storage
+flask-cors
+prophet==1.1.1
+holidays==0.24
+statsmodels
+pmdarima

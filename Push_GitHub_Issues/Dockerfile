@@ -1,0 +1,1 @@
+FROM saiprasaad/elasticsearch_vector_hw5:latest
